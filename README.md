@@ -116,5 +116,5 @@ Please make sure to update tests as appropriate.
 
 ## Credits
 
-Frountend: Ishaan Verma\
-Backend: Samarth Ryan Edward
+Frountend: [Ishaan Verma](https://github.com/16ishaan)\
+Backend: [Samarth Ryan Edward](https://www.linkedin.com/in/samarth-ryan-edward-a51047352/)
