@@ -5,10 +5,7 @@ MusAIc is an AI-powered music application that bridges emotion recognition with 
 The app detects your mood in real time using facial expressions and then plays songs that match your emotions through the Spotify API.
 
 ## Demo
-
-
-Uploading MusAIc - Feel the Music of Your Mood 2025-08-24 00-53-41.mp4…
-
+https://github.com/user-attachments/assets/5c7e5180-4230-4a4e-be4f-ce029998b3bc
 
 ## How to use MusAIc
 
