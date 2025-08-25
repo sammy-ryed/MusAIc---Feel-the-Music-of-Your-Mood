@@ -1,5 +1,5 @@
 # Project: MusAIc – Feel the Music of Your Mood
-# Author: <Your Name>
+# Author: Samarth Ryan Edward, Ishaan Verma
 # Description:
 #     This project integrates:
 #       - Spotify Web API (Spotipy)
